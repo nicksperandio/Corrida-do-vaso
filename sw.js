@@ -1,4 +1,4 @@
-const CACHE = "corrida-vaso-v1";
+const CACHE = "corrida-vaso-v2";
 const ARQUIVOS = ["./", "./index.html", "./logo.png", "./celebracao.png", "./carro1.png", "./carro2.png", "./manifest.json"];
 
 self.addEventListener("install", e => {
